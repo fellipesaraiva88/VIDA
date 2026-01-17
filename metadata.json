@@ -1,0 +1,7 @@
+{
+  "name": "Vida - AI Life Secretary",
+  "description": "Your personal AI voice secretary for managing life tasks and real-time conversation.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
